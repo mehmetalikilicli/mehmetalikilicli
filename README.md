@@ -11,10 +11,7 @@
 <p align="left">
     <a href="https://linkedin.com/in/mehmetalikilicli" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="mehmetalikilicli" height="30" width="40" /></a>
-
-            
-    <a href="https://instagram.com/mhmtali.kilicli" target="blank"><img align="center"
+            alt="mehmetalikilicli" height="30" width="40" /></a><a href="https://instagram.com/mhmtali.kilicli" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="mhmtali.kilicli" height="30" width="40" /></a>
     <a href="https://discord.gg/#0775" target="blank"><img align="center"
@@ -48,9 +45,7 @@
             <a
         href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-            
-            <a href="https://www.arduino.cc/" target="_blank"
+    </a><a href="https://www.arduino.cc/" target="_blank"
         rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40"
             height="40" /> </a> 
             
@@ -112,13 +107,9 @@
             
             <a href="https://postman.com" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
-            width="40" height="40" /> </a> 
-            
-            <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+            width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> 
-            
-            <a href="https://spring.io/" target="_blank" rel="noreferrer">
+            alt="python" width="40" height="40" /> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a> 
     
