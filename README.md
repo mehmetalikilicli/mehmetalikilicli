@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Ali</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
-<p align="left"> <img
+<p align="center"> <img
         src="https://komarev.com/ghpvc/?username=mehmetalikilicli&label=Profile%20views&color=0e75b6&style=flat"
         alt="mehmetalikilicli" /> </p>
 
@@ -20,8 +20,8 @@
             alt="#0775" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
     src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
     src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
 </a><a
